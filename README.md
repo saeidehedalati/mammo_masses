@@ -1,4 +1,3 @@
-# saeidehedalati
 ## Predict the severity (benign or malignant) of a mammographic mass lesion
 
 (source: https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
